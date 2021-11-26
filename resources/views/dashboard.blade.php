@@ -14,7 +14,7 @@
             </span>
           </div>
             <p class="sub-header-title">
-              Realtime report data pengguna yang mendaftar
+              Realtime data pengguna yang mendaftar
             </p>
         </div>
     </div>
