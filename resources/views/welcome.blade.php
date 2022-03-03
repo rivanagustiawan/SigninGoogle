@@ -21,7 +21,7 @@
       <div class="login">
       <div class="container ">
       <main class="form-signin" >
-      <h1><span>SIGN IN WITHS GOOGLE</span></h1>
+      <h1><span>SIGNIN JEUNG GOOGLE</span></h1>
         <div class="containerLogin">
             <form method="POST" action="/login" class="d-flex-col">
 
